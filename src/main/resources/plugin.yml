@@ -1,0 +1,9 @@
+name: Guicreation
+version: '${project.version}'
+main: com.chqppy.guicreation.Guicreation
+api-version: 1.17
+authors: [ chqppy ]
+description: GUI Creation
+commands:
+  menu:
+    description: gibs u da menu
