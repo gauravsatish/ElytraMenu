@@ -1,7 +1,10 @@
 # ElytraMenu
-Adds some helpful features for using an Elytra
+Adds some helpful features for using an Elytra 
+<br>
 i did this just too learn how to create custom GUIs in minecraft
+<br>
 and i thought i would just put this plugin here becoz why not
+<br>
 i dont expect anyone to download it(if u do, what are you?)
 
 TODO:
